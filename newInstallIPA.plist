@@ -27,13 +27,13 @@
 				<key>bundle-identifier</key>
 				<string>com.zhuoyuehd.h</string>
 				<key>bundle-version</key>
-				<string>1.0.7</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>娱乐购</string>
+				<string>天天棋牌</string>
 			</dict>
 		</dict>
 	</array>
